@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DreamLog</string>
+    <string name="alarm_channel_name">DreamLog alarm</string>
+    <string name="alarm_channel_description">Wake alarm that requires a dream entry to stop.</string>
+    <string name="alarm_notification_title">DreamLog alarm</string>
+    <string name="alarm_notification_text">Record your dream to stop the alarm.</string>
+</resources>
